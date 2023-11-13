@@ -14,6 +14,26 @@
 		D31AE5932AD94FA80002226E /* TravelGuide.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D31AE5912AD94FA80002226E /* TravelGuide.xcdatamodeld */; };
 		D31AE5952AD94FA90002226E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D31AE5942AD94FA90002226E /* Assets.xcassets */; };
 		D31AE5982AD94FA90002226E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D31AE5962AD94FA90002226E /* LaunchScreen.storyboard */; };
+		D31D4F772ADD32D40016FDFF /* EnjoyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31D4F762ADD32D40016FDFF /* EnjoyView.swift */; };
+		D31D4F792ADD8A540016FDFF /* TravelViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D31D4F782ADD8A540016FDFF /* TravelViewController.swift */; };
+		D34AACD12AE0270A008BE69C /* TarihiCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34AACD02AE0270A008BE69C /* TarihiCell.swift */; };
+		D34AACD32AE0272B008BE69C /* plajCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34AACD22AE0272B008BE69C /* plajCell.swift */; };
+		D34AACD52AE0273F008BE69C /* muzeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34AACD42AE0273F008BE69C /* muzeCell.swift */; };
+		D34AACD72AE0274B008BE69C /* ParkCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34AACD62AE0274B008BE69C /* ParkCell.swift */; };
+		D34AACDB2AE02E4A008BE69C /* pubCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34AACDA2AE02E4A008BE69C /* pubCell.swift */; };
+		D34AACDD2AE02E5A008BE69C /* kulupCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = D34AACDC2AE02E5A008BE69C /* kulupCell.swift */; };
+		D37056442AE146A1009F3769 /* TarihiViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37056432AE146A1009F3769 /* TarihiViewController.swift */; };
+		D37056462AE14713009F3769 /* MuzeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37056452AE14713009F3769 /* MuzeViewController.swift */; };
+		D37056482AE1472C009F3769 /* PlajViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37056472AE1472C009F3769 /* PlajViewController.swift */; };
+		D370564A2AE1473D009F3769 /* ParkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37056492AE1473D009F3769 /* ParkViewController.swift */; };
+		D370564C2AE14753009F3769 /* PubViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D370564B2AE14753009F3769 /* PubViewController.swift */; };
+		D370564E2AE1475B009F3769 /* KulupViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D370564D2AE1475B009F3769 /* KulupViewController.swift */; };
+		D37056522AE284B9009F3769 /* tarihibilgiler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37056512AE284B9009F3769 /* tarihibilgiler.swift */; };
+		D37056542AE284CA009F3769 /* muzeBilgiler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37056532AE284CA009F3769 /* muzeBilgiler.swift */; };
+		D37056562AE284D5009F3769 /* plajBilgiler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37056552AE284D5009F3769 /* plajBilgiler.swift */; };
+		D37056592AE284E7009F3769 /* parkBilgiler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D37056582AE284E7009F3769 /* parkBilgiler.swift */; };
+		D370565B2AE28504009F3769 /* pubBilgiler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D370565A2AE28504009F3769 /* pubBilgiler.swift */; };
+		D370565D2AE2850D009F3769 /* kulupBilgiler.swift in Sources */ = {isa = PBXBuildFile; fileRef = D370565C2AE2850D009F3769 /* kulupBilgiler.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +46,26 @@
 		D31AE5942AD94FA90002226E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D31AE5972AD94FA90002226E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D31AE5992AD94FA90002226E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D31D4F762ADD32D40016FDFF /* EnjoyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnjoyView.swift; sourceTree = "<group>"; };
+		D31D4F782ADD8A540016FDFF /* TravelViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TravelViewController.swift; sourceTree = "<group>"; };
+		D34AACD02AE0270A008BE69C /* TarihiCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarihiCell.swift; sourceTree = "<group>"; };
+		D34AACD22AE0272B008BE69C /* plajCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plajCell.swift; sourceTree = "<group>"; };
+		D34AACD42AE0273F008BE69C /* muzeCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = muzeCell.swift; sourceTree = "<group>"; };
+		D34AACD62AE0274B008BE69C /* ParkCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkCell.swift; sourceTree = "<group>"; };
+		D34AACDA2AE02E4A008BE69C /* pubCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pubCell.swift; sourceTree = "<group>"; };
+		D34AACDC2AE02E5A008BE69C /* kulupCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kulupCell.swift; sourceTree = "<group>"; };
+		D37056432AE146A1009F3769 /* TarihiViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TarihiViewController.swift; sourceTree = "<group>"; };
+		D37056452AE14713009F3769 /* MuzeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MuzeViewController.swift; sourceTree = "<group>"; };
+		D37056472AE1472C009F3769 /* PlajViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PlajViewController.swift; sourceTree = "<group>"; };
+		D37056492AE1473D009F3769 /* ParkViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParkViewController.swift; sourceTree = "<group>"; };
+		D370564B2AE14753009F3769 /* PubViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PubViewController.swift; sourceTree = "<group>"; };
+		D370564D2AE1475B009F3769 /* KulupViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KulupViewController.swift; sourceTree = "<group>"; };
+		D37056512AE284B9009F3769 /* tarihibilgiler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tarihibilgiler.swift; sourceTree = "<group>"; };
+		D37056532AE284CA009F3769 /* muzeBilgiler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = muzeBilgiler.swift; sourceTree = "<group>"; };
+		D37056552AE284D5009F3769 /* plajBilgiler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = plajBilgiler.swift; sourceTree = "<group>"; };
+		D37056582AE284E7009F3769 /* parkBilgiler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = parkBilgiler.swift; sourceTree = "<group>"; };
+		D370565A2AE28504009F3769 /* pubBilgiler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pubBilgiler.swift; sourceTree = "<group>"; };
+		D370565C2AE2850D009F3769 /* kulupBilgiler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = kulupBilgiler.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,8 +99,10 @@
 			isa = PBXGroup;
 			children = (
 				D31AE5882AD94FA80002226E /* AppDelegate.swift */,
+				D34AACCF2AE026DC008BE69C /* cell */,
+				D34AACD82AE02999008BE69C /* View */,
 				D31AE58A2AD94FA80002226E /* SceneDelegate.swift */,
-				D31AE58C2AD94FA80002226E /* ViewController.swift */,
+				D370564F2AE28463009F3769 /* Data  */,
 				D31AE58E2AD94FA80002226E /* Main.storyboard */,
 				D31AE5942AD94FA90002226E /* Assets.xcassets */,
 				D31AE5962AD94FA90002226E /* LaunchScreen.storyboard */,
@@ -68,6 +110,64 @@
 				D31AE5912AD94FA80002226E /* TravelGuide.xcdatamodeld */,
 			);
 			path = TravelGuide;
+			sourceTree = "<group>";
+		};
+		D34AACCF2AE026DC008BE69C /* cell */ = {
+			isa = PBXGroup;
+			children = (
+				D34AACD02AE0270A008BE69C /* TarihiCell.swift */,
+				D34AACD22AE0272B008BE69C /* plajCell.swift */,
+				D34AACD42AE0273F008BE69C /* muzeCell.swift */,
+				D34AACD62AE0274B008BE69C /* ParkCell.swift */,
+				D34AACD92AE02E2E008BE69C /* cell2 */,
+			);
+			path = cell;
+			sourceTree = "<group>";
+		};
+		D34AACD82AE02999008BE69C /* View */ = {
+			isa = PBXGroup;
+			children = (
+				D31D4F782ADD8A540016FDFF /* TravelViewController.swift */,
+				D31AE58C2AD94FA80002226E /* ViewController.swift */,
+				D31D4F762ADD32D40016FDFF /* EnjoyView.swift */,
+				D37056432AE146A1009F3769 /* TarihiViewController.swift */,
+				D37056452AE14713009F3769 /* MuzeViewController.swift */,
+				D37056472AE1472C009F3769 /* PlajViewController.swift */,
+				D37056492AE1473D009F3769 /* ParkViewController.swift */,
+				D370564B2AE14753009F3769 /* PubViewController.swift */,
+				D370564D2AE1475B009F3769 /* KulupViewController.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		D34AACD92AE02E2E008BE69C /* cell2 */ = {
+			isa = PBXGroup;
+			children = (
+				D34AACDA2AE02E4A008BE69C /* pubCell.swift */,
+				D34AACDC2AE02E5A008BE69C /* kulupCell.swift */,
+			);
+			path = cell2;
+			sourceTree = "<group>";
+		};
+		D370564F2AE28463009F3769 /* Data  */ = {
+			isa = PBXGroup;
+			children = (
+				D37056502AE2846F009F3769 /* Entitiy */,
+			);
+			path = "Data ";
+			sourceTree = "<group>";
+		};
+		D37056502AE2846F009F3769 /* Entitiy */ = {
+			isa = PBXGroup;
+			children = (
+				D37056512AE284B9009F3769 /* tarihibilgiler.swift */,
+				D37056532AE284CA009F3769 /* muzeBilgiler.swift */,
+				D37056552AE284D5009F3769 /* plajBilgiler.swift */,
+				D37056582AE284E7009F3769 /* parkBilgiler.swift */,
+				D370565A2AE28504009F3769 /* pubBilgiler.swift */,
+				D370565C2AE2850D009F3769 /* kulupBilgiler.swift */,
+			);
+			path = Entitiy;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -141,8 +241,28 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D370564A2AE1473D009F3769 /* ParkViewController.swift in Sources */,
+				D34AACD32AE0272B008BE69C /* plajCell.swift in Sources */,
+				D37056442AE146A1009F3769 /* TarihiViewController.swift in Sources */,
 				D31AE5932AD94FA80002226E /* TravelGuide.xcdatamodeld in Sources */,
+				D37056462AE14713009F3769 /* MuzeViewController.swift in Sources */,
+				D31D4F792ADD8A540016FDFF /* TravelViewController.swift in Sources */,
+				D370564E2AE1475B009F3769 /* KulupViewController.swift in Sources */,
+				D37056562AE284D5009F3769 /* plajBilgiler.swift in Sources */,
+				D34AACDD2AE02E5A008BE69C /* kulupCell.swift in Sources */,
+				D370565D2AE2850D009F3769 /* kulupBilgiler.swift in Sources */,
+				D31D4F772ADD32D40016FDFF /* EnjoyView.swift in Sources */,
+				D37056482AE1472C009F3769 /* PlajViewController.swift in Sources */,
 				D31AE58D2AD94FA80002226E /* ViewController.swift in Sources */,
+				D34AACDB2AE02E4A008BE69C /* pubCell.swift in Sources */,
+				D37056592AE284E7009F3769 /* parkBilgiler.swift in Sources */,
+				D37056542AE284CA009F3769 /* muzeBilgiler.swift in Sources */,
+				D34AACD12AE0270A008BE69C /* TarihiCell.swift in Sources */,
+				D34AACD52AE0273F008BE69C /* muzeCell.swift in Sources */,
+				D34AACD72AE0274B008BE69C /* ParkCell.swift in Sources */,
+				D370564C2AE14753009F3769 /* PubViewController.swift in Sources */,
+				D37056522AE284B9009F3769 /* tarihibilgiler.swift in Sources */,
+				D370565B2AE28504009F3769 /* pubBilgiler.swift in Sources */,
 				D31AE5892AD94FA80002226E /* AppDelegate.swift in Sources */,
 				D31AE58B2AD94FA80002226E /* SceneDelegate.swift in Sources */,
 			);
